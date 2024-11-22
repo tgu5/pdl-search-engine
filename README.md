@@ -1,4 +1,4 @@
-Install Prisma dependencies
+To use the DB, install Prisma dependencies
 
 `npm install @prisma/client prisma`
 
