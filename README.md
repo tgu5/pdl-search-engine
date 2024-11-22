@@ -4,8 +4,10 @@ Install Prisma dependencies
 
 Create the database and generate Prisma client
 
-`npx prisma generate`
-`npx prisma db push`
+```
+npx prisma generate
+npx prisma db push
+```
 
 Seed the database with sample data
 
