@@ -1,3 +1,21 @@
+Install Prisma dependencies
+
+`npm install @prisma/client prisma`
+
+Create the database and generate Prisma client
+
+```npx prisma generate
+npx prisma db push```
+
+Seed the database with sample data
+
+`npx prisma db seed`
+
+(Optional) View your database with Prisma Studio
+
+`npx prisma studio`
+This will open a browser window at http://localhost:5555 where you can view and edit your database.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
