@@ -1,3 +1,6 @@
+
+<video src="https://github.com/user-attachments/assets/392c10c7-edda-4126-afd7-8d7ed1547874"></video>
+
 To use the DB, install Prisma dependencies
 
 `npm install @prisma/client prisma`
